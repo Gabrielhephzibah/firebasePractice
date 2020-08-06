@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirebasePractice</string>
+    <string name="hint_title">Deal title</string>
+    <string name="price_hint">price</string>
+    <string name="description_hint">description</string>
+</resources>
